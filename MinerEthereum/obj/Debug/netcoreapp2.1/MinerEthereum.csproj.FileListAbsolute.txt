@@ -1,0 +1,11 @@
+C:\TongHop\Others\VSTeam\MinerEthereum\bin\Debug\netcoreapp2.1\MinerEthereum.deps.json
+C:\TongHop\Others\VSTeam\MinerEthereum\bin\Debug\netcoreapp2.1\MinerEthereum.runtimeconfig.json
+C:\TongHop\Others\VSTeam\MinerEthereum\bin\Debug\netcoreapp2.1\MinerEthereum.runtimeconfig.dev.json
+C:\TongHop\Others\VSTeam\MinerEthereum\bin\Debug\netcoreapp2.1\MinerEthereum.dll
+C:\TongHop\Others\VSTeam\MinerEthereum\bin\Debug\netcoreapp2.1\MinerEthereum.pdb
+C:\TongHop\Others\VSTeam\MinerEthereum\obj\Debug\netcoreapp2.1\MinerEthereum.csprojAssemblyReference.cache
+C:\TongHop\Others\VSTeam\MinerEthereum\obj\Debug\netcoreapp2.1\MinerEthereum.csproj.CoreCompileInputs.cache
+C:\TongHop\Others\VSTeam\MinerEthereum\obj\Debug\netcoreapp2.1\MinerEthereum.AssemblyInfoInputs.cache
+C:\TongHop\Others\VSTeam\MinerEthereum\obj\Debug\netcoreapp2.1\MinerEthereum.AssemblyInfo.cs
+C:\TongHop\Others\VSTeam\MinerEthereum\obj\Debug\netcoreapp2.1\MinerEthereum.dll
+C:\TongHop\Others\VSTeam\MinerEthereum\obj\Debug\netcoreapp2.1\MinerEthereum.pdb

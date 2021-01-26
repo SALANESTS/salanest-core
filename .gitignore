@@ -23,3 +23,7 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+/.vs/Salanests/v15/Server/sqlite3/storage.ide-wal
+/.vs/Salanests/v15/Server/sqlite3/storage.ide-shm
+/.vs/Salanests/v15/Server/sqlite3/storage.ide
+/.vs/Salanests/v15/Server/sqlite3/db.lock
